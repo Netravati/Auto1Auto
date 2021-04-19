@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SMOKE TEST DATA -->
+ <TestData>
+ <!-- Serach strings and expected pure hit counts -->
+
+   
+    <sortByPrice>Höchster Preis</sortByPrice>
+    <selectRangeStartYear>2019</selectRangeStartYear>
+
+</TestData>

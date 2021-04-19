@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69709" started-at="2021-04-19T10:52:30Z" finished-at="2021-04-19T10:53:40Z">
+    <groups>
+    </groups>
+    <test name="Validate thuisbezorgd.nl test cases" duration-ms="2" started-at="2021-04-19T10:52:30Z" finished-at="2021-04-19T10:52:30Z">
+    </test> <!-- Validate thuisbezorgd.nl test cases -->
+    <test name="AccountCreations Test Scripts" duration-ms="69696" started-at="2021-04-19T10:52:30Z" finished-at="2021-04-19T10:53:40Z">
+      <class name="testScripts.Input">
+        <test-method status="PASS" signature="loadEnvConfig()[pri:0, instance:testScripts.Input@7e0ea639]" name="loadEnvConfig" is-config="true" duration-ms="246" started-at="2021-04-19T12:52:30Z" finished-at="2021-04-19T12:52:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadEnvConfig -->
+      </class> <!-- testScripts.Input -->
+      <class name="testScripts.T01_SearchCars">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testScripts.T01_SearchCars@79698539]" name="setup" is-config="true" duration-ms="6" started-at="2021-04-19T12:52:30Z" finished-at="2021-04-19T12:52:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testScripts.T01_SearchCars@79698539]" name="beforeTestMethod" is-config="true" duration-ms="6665" started-at="2021-04-19T12:52:30Z" finished-at="2021-04-19T12:52:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.T01_SearchCars.sortByRegYearAndPrice()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method status="PASS" signature="sortByRegYearAndPrice()[pri:0, instance:testScripts.T01_SearchCars@79698539]" name="sortByRegYearAndPrice" duration-ms="58199" started-at="2021-04-19T12:52:37Z" finished-at="2021-04-19T12:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortByRegYearAndPrice -->
+        <test-method status="PASS" signature="takeScreenShot(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:testScripts.T01_SearchCars@79698539]" name="takeScreenShot" is-config="true" duration-ms="4021" started-at="2021-04-19T12:53:35Z" finished-at="2021-04-19T12:53:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sortByRegYearAndPrice status=SUCCESS method=T01_SearchCars.sortByRegYearAndPrice()[pri:0, instance:testScripts.T01_SearchCars@79698539] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testScripts.T01_SearchCars.sortByRegYearAndPrice()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShot -->
+        <test-method status="PASS" signature="close()[pri:0, instance:testScripts.T01_SearchCars@79698539]" name="close" is-config="true" duration-ms="803" started-at="2021-04-19T12:53:39Z" finished-at="2021-04-19T12:53:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testScripts.T01_SearchCars -->
+    </test> <!-- AccountCreations Test Scripts -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,562 @@
+19/04/2021 12:52:30 devpinoyLogger Before Suite is called
+19/04/2021 12:52:30 devpinoyLogger Running scripts on QA
+19/04/2021 12:52:30 devpinoyLogger Test Data is loaded
+19/04/2021 12:52:30 devpinoyLogger Before Suite is called
+19/04/2021 12:52:30 devpinoyLogger Running scripts on QA
+19/04/2021 12:52:30 devpinoyLogger Test Data is loaded
+19/04/2021 12:52:36 devpinoyLogger CHROMEis opned and loading application
+19/04/2021 12:52:37 devpinoyLogger ****************************************************************************************
+19/04/2021 12:52:37 devpinoyLogger ****************************************************************************************
+19/04/2021 12:52:37 devpinoyLogger $$$$$$$$$$$$$$$$$$$$$           Executing  -    sortByRegYearAndPrice       $$$$$$$$$$$$$$$$$$$$$$$$$
+19/04/2021 12:52:37 devpinoyLogger ****************************************************************************************
+19/04/2021 12:52:37 devpinoyLogger ****************************************************************************************
+
+19/04/2021 12:52:37 devpinoyLogger Web application Auto1 launched
+19/04/2021 12:52:38 devpinoyLogger Filter year choosen: 2019
+19/04/2021 12:52:39 devpinoyLogger Price order choosen : HÃ¶chster Preis
+19/04/2021 12:52:41 devpinoyLogger Car :Ford Edge
+38.900 €
+19/04/2021 12:52:41 devpinoyLogger Price :38900
+19/04/2021 12:52:41 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:41 devpinoyLogger -----------------
+19/04/2021 12:52:41 devpinoyLogger Car :Mercedes-Benz C-Klasse
+37.200 €
+19/04/2021 12:52:42 devpinoyLogger Price :37200
+19/04/2021 12:52:42 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:42 devpinoyLogger -----------------
+19/04/2021 12:52:42 devpinoyLogger Car :Audi S3
+36.800 €
+19/04/2021 12:52:42 devpinoyLogger Price :36800
+19/04/2021 12:52:42 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:42 devpinoyLogger -----------------
+19/04/2021 12:52:42 devpinoyLogger Car :Mercedes-Benz E-Klasse
+33.400 €
+19/04/2021 12:52:42 devpinoyLogger Price :33400
+19/04/2021 12:52:42 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:42 devpinoyLogger -----------------
+19/04/2021 12:52:43 devpinoyLogger Car :Volkswagen Golf
+33.300 €
+19/04/2021 12:52:43 devpinoyLogger Price :33300
+19/04/2021 12:52:43 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:43 devpinoyLogger -----------------
+19/04/2021 12:52:43 devpinoyLogger Car :Mercedes-Benz CLA-Klasse
+32.700 €
+19/04/2021 12:52:43 devpinoyLogger Price :32700
+19/04/2021 12:52:43 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:43 devpinoyLogger -----------------
+19/04/2021 12:52:43 devpinoyLogger Car :Audi Q3
+32.200 €
+19/04/2021 12:52:43 devpinoyLogger Price :32200
+19/04/2021 12:52:44 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:44 devpinoyLogger -----------------
+19/04/2021 12:52:44 devpinoyLogger Car :BMW 1er
+31.500 €
+19/04/2021 12:52:44 devpinoyLogger Price :31500
+19/04/2021 12:52:44 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:44 devpinoyLogger -----------------
+19/04/2021 12:52:44 devpinoyLogger Car :Volvo XC 40
+31.100 €
+19/04/2021 12:52:44 devpinoyLogger Price :31100
+19/04/2021 12:52:44 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:44 devpinoyLogger -----------------
+19/04/2021 12:52:45 devpinoyLogger Car :Mercedes-Benz E-Klasse
+31.100 €
+19/04/2021 12:52:45 devpinoyLogger Price :31100
+19/04/2021 12:52:45 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:45 devpinoyLogger -----------------
+19/04/2021 12:52:45 devpinoyLogger Car :Skoda Superb
+30.400 €
+19/04/2021 12:52:45 devpinoyLogger Price :30400
+19/04/2021 12:52:45 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:45 devpinoyLogger -----------------
+19/04/2021 12:52:45 devpinoyLogger Car :Audi Q3
+29.600 €
+19/04/2021 12:52:45 devpinoyLogger Price :29600
+19/04/2021 12:52:45 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:45 devpinoyLogger -----------------
+19/04/2021 12:52:46 devpinoyLogger Car :Audi A4
+29.400 €
+19/04/2021 12:52:46 devpinoyLogger Price :29400
+19/04/2021 12:52:46 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:46 devpinoyLogger -----------------
+19/04/2021 12:52:46 devpinoyLogger Car :Mercedes-Benz C-Klasse
+28.900 €
+19/04/2021 12:52:46 devpinoyLogger Price :28900
+19/04/2021 12:52:46 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:46 devpinoyLogger -----------------
+19/04/2021 12:52:46 devpinoyLogger Car :Peugeot 3008
+28.300 €
+19/04/2021 12:52:46 devpinoyLogger Price :28300
+19/04/2021 12:52:46 devpinoyLogger Year/Model :2020
+19/04/2021 12:52:47 devpinoyLogger -----------------
+19/04/2021 12:52:47 devpinoyLogger Car :Ford Focus
+28.200 €
+19/04/2021 12:52:47 devpinoyLogger Price :28200
+19/04/2021 12:52:47 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:47 devpinoyLogger -----------------
+19/04/2021 12:52:49 devpinoyLogger Car :Hyundai i30
+27.600 €
+19/04/2021 12:52:49 devpinoyLogger Price :27600
+19/04/2021 12:52:49 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:49 devpinoyLogger -----------------
+19/04/2021 12:52:50 devpinoyLogger Car :Mazda CX-5
+27.100 €
+19/04/2021 12:52:50 devpinoyLogger Price :27100
+19/04/2021 12:52:50 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:50 devpinoyLogger -----------------
+19/04/2021 12:52:50 devpinoyLogger Car :Mercedes-Benz A-Klasse
+27.000 €
+19/04/2021 12:52:50 devpinoyLogger Price :27000
+19/04/2021 12:52:50 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:50 devpinoyLogger -----------------
+19/04/2021 12:52:50 devpinoyLogger Car :Mercedes-Benz B-Klasse
+26.700 €
+19/04/2021 12:52:50 devpinoyLogger Price :26700
+19/04/2021 12:52:50 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:51 devpinoyLogger -----------------
+19/04/2021 12:52:51 devpinoyLogger Car :Audi A1
+26.700 €
+19/04/2021 12:52:51 devpinoyLogger Price :26700
+19/04/2021 12:52:51 devpinoyLogger Year/Model :2020
+19/04/2021 12:52:51 devpinoyLogger -----------------
+19/04/2021 12:52:51 devpinoyLogger Car :Volkswagen T-Roc
+26.400 €
+19/04/2021 12:52:51 devpinoyLogger Price :26400
+19/04/2021 12:52:51 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:51 devpinoyLogger -----------------
+19/04/2021 12:52:51 devpinoyLogger Car :Renault Talisman
+26.400 €
+19/04/2021 12:52:51 devpinoyLogger Price :26400
+19/04/2021 12:52:51 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:52 devpinoyLogger -----------------
+19/04/2021 12:52:52 devpinoyLogger Car :Hyundai Tucson
+26.300 €
+19/04/2021 12:52:52 devpinoyLogger Price :26300
+19/04/2021 12:52:52 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:52 devpinoyLogger -----------------
+19/04/2021 12:52:52 devpinoyLogger Car :Mercedes-Benz CLA-Klasse
+26.200 €
+19/04/2021 12:52:52 devpinoyLogger Price :26200
+19/04/2021 12:52:52 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:52 devpinoyLogger -----------------
+19/04/2021 12:52:52 devpinoyLogger Car :Volkswagen Golf VII
+26.000 €
+19/04/2021 12:52:53 devpinoyLogger Price :26000
+19/04/2021 12:52:53 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:53 devpinoyLogger -----------------
+19/04/2021 12:52:53 devpinoyLogger Car :Ford Kuga
+25.600 €
+19/04/2021 12:52:53 devpinoyLogger Price :25600
+19/04/2021 12:52:53 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:53 devpinoyLogger -----------------
+19/04/2021 12:52:53 devpinoyLogger Car :Peugeot 508
+25.400 €
+19/04/2021 12:52:53 devpinoyLogger Price :25400
+19/04/2021 12:52:53 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:54 devpinoyLogger -----------------
+19/04/2021 12:52:54 devpinoyLogger Car :BMW 2er
+24.800 €
+19/04/2021 12:52:54 devpinoyLogger Price :24800
+19/04/2021 12:52:54 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:54 devpinoyLogger -----------------
+19/04/2021 12:52:54 devpinoyLogger Car :Mazda CX-5
+24.300 €
+19/04/2021 12:52:54 devpinoyLogger Price :24300
+19/04/2021 12:52:54 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:54 devpinoyLogger -----------------
+19/04/2021 12:52:54 devpinoyLogger Car :MINI MINI
+24.100 €
+19/04/2021 12:52:54 devpinoyLogger Price :24100
+19/04/2021 12:52:54 devpinoyLogger Year/Model :2020
+19/04/2021 12:52:55 devpinoyLogger -----------------
+19/04/2021 12:52:55 devpinoyLogger Car :Seat Ateca
+23.900 €
+19/04/2021 12:52:55 devpinoyLogger Price :23900
+19/04/2021 12:52:55 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:55 devpinoyLogger -----------------
+19/04/2021 12:52:57 devpinoyLogger Car :Renault Captur
+21.100 €
+19/04/2021 12:52:57 devpinoyLogger Price :21100
+19/04/2021 12:52:57 devpinoyLogger Year/Model :2020
+19/04/2021 12:52:57 devpinoyLogger -----------------
+19/04/2021 12:52:58 devpinoyLogger Car :Seat Leon
+21.100 €
+19/04/2021 12:52:58 devpinoyLogger Price :21100
+19/04/2021 12:52:58 devpinoyLogger Year/Model :2020
+19/04/2021 12:52:58 devpinoyLogger -----------------
+19/04/2021 12:52:58 devpinoyLogger Car :Mitsubishi Outlander
+20.800 €
+19/04/2021 12:52:58 devpinoyLogger Price :20800
+19/04/2021 12:52:58 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:58 devpinoyLogger -----------------
+19/04/2021 12:52:58 devpinoyLogger Car :Volkswagen Polo
+20.700 €
+19/04/2021 12:52:58 devpinoyLogger Price :20700
+19/04/2021 12:52:58 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:59 devpinoyLogger -----------------
+19/04/2021 12:52:59 devpinoyLogger Car :Opel Insignia
+20.500 €
+19/04/2021 12:52:59 devpinoyLogger Price :20500
+19/04/2021 12:52:59 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:59 devpinoyLogger -----------------
+19/04/2021 12:52:59 devpinoyLogger Car :Audi Q2
+20.200 €
+19/04/2021 12:52:59 devpinoyLogger Price :20200
+19/04/2021 12:52:59 devpinoyLogger Year/Model :2019
+19/04/2021 12:52:59 devpinoyLogger -----------------
+19/04/2021 12:52:59 devpinoyLogger Car :Mercedes-Benz A-Klasse
+20.200 €
+19/04/2021 12:53:00 devpinoyLogger Price :20200
+19/04/2021 12:53:00 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:00 devpinoyLogger -----------------
+19/04/2021 12:53:00 devpinoyLogger Car :Volkswagen T-Cross
+19.900 €
+19/04/2021 12:53:00 devpinoyLogger Price :19900
+19/04/2021 12:53:00 devpinoyLogger Year/Model :2020
+19/04/2021 12:53:00 devpinoyLogger -----------------
+19/04/2021 12:53:00 devpinoyLogger Car :BMW 1er
+19.700 €
+19/04/2021 12:53:00 devpinoyLogger Price :19700
+19/04/2021 12:53:00 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:00 devpinoyLogger -----------------
+19/04/2021 12:53:01 devpinoyLogger Car :Ford Focus
+19.600 €
+19/04/2021 12:53:01 devpinoyLogger Price :19600
+19/04/2021 12:53:01 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:01 devpinoyLogger -----------------
+19/04/2021 12:53:01 devpinoyLogger Car :Nissan Qashqai
+19.550 €
+19/04/2021 12:53:01 devpinoyLogger Price :19550
+19/04/2021 12:53:01 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:01 devpinoyLogger -----------------
+19/04/2021 12:53:01 devpinoyLogger Car :Mitsubishi Outlander
+19.300 €
+19/04/2021 12:53:01 devpinoyLogger Price :19300
+19/04/2021 12:53:01 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:02 devpinoyLogger -----------------
+19/04/2021 12:53:02 devpinoyLogger Car :Mitsubishi Eclipse Cross
+18.800 €
+19/04/2021 12:53:02 devpinoyLogger Price :18800
+19/04/2021 12:53:02 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:02 devpinoyLogger -----------------
+19/04/2021 12:53:02 devpinoyLogger Car :Fiat 500X
+17.300 €
+19/04/2021 12:53:02 devpinoyLogger Price :17300
+19/04/2021 12:53:02 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:02 devpinoyLogger -----------------
+19/04/2021 12:53:02 devpinoyLogger Car :Volkswagen Polo
+17.200 €
+19/04/2021 12:53:03 devpinoyLogger Price :17200
+19/04/2021 12:53:03 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:03 devpinoyLogger -----------------
+19/04/2021 12:53:03 devpinoyLogger Car :Ford Kuga
+17.200 €
+19/04/2021 12:53:03 devpinoyLogger Price :17200
+19/04/2021 12:53:03 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:03 devpinoyLogger -----------------
+19/04/2021 12:53:05 devpinoyLogger Car :Ford Fiesta
+15.500 €
+19/04/2021 12:53:05 devpinoyLogger Price :15500
+19/04/2021 12:53:06 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:06 devpinoyLogger -----------------
+19/04/2021 12:53:06 devpinoyLogger Car :Dacia Duster II
+15.300 €
+19/04/2021 12:53:06 devpinoyLogger Price :15300
+19/04/2021 12:53:06 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:06 devpinoyLogger -----------------
+19/04/2021 12:53:06 devpinoyLogger Car :Honda Jazz
+15.300 €
+19/04/2021 12:53:06 devpinoyLogger Price :15300
+19/04/2021 12:53:06 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:06 devpinoyLogger -----------------
+19/04/2021 12:53:07 devpinoyLogger Car :Dacia Duster II
+14.600 €
+19/04/2021 12:53:07 devpinoyLogger Price :14600
+19/04/2021 12:53:07 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:07 devpinoyLogger -----------------
+19/04/2021 12:53:07 devpinoyLogger Car :Volkswagen Polo
+14.500 €
+19/04/2021 12:53:07 devpinoyLogger Price :14500
+19/04/2021 12:53:07 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:07 devpinoyLogger -----------------
+19/04/2021 12:53:07 devpinoyLogger Car :Volkswagen up!
+14.300 €
+19/04/2021 12:53:07 devpinoyLogger Price :14300
+19/04/2021 12:53:07 devpinoyLogger Year/Model :2020
+19/04/2021 12:53:07 devpinoyLogger -----------------
+19/04/2021 12:53:08 devpinoyLogger Car :Smart fortwo
+14.300 €
+19/04/2021 12:53:08 devpinoyLogger Price :14300
+19/04/2021 12:53:08 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:08 devpinoyLogger -----------------
+19/04/2021 12:53:08 devpinoyLogger Car :Dacia Duster II
+14.100 €
+19/04/2021 12:53:08 devpinoyLogger Price :14100
+19/04/2021 12:53:08 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:08 devpinoyLogger -----------------
+19/04/2021 12:53:08 devpinoyLogger Car :Volkswagen up!
+13.800 €
+19/04/2021 12:53:08 devpinoyLogger Price :13800
+19/04/2021 12:53:09 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:09 devpinoyLogger -----------------
+19/04/2021 12:53:09 devpinoyLogger Car :Fiat Tipo
+13.700 €
+19/04/2021 12:53:09 devpinoyLogger Price :13700
+19/04/2021 12:53:09 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:09 devpinoyLogger -----------------
+19/04/2021 12:53:09 devpinoyLogger Car :Citroen C3
+13.400 €
+19/04/2021 12:53:09 devpinoyLogger Price :13400
+19/04/2021 12:53:09 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:09 devpinoyLogger -----------------
+19/04/2021 12:53:10 devpinoyLogger Car :Kia Stonic
+13.100 €
+19/04/2021 12:53:10 devpinoyLogger Price :13100
+19/04/2021 12:53:10 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:10 devpinoyLogger -----------------
+19/04/2021 12:53:10 devpinoyLogger Car :Suzuki Ignis
+13.000 €
+19/04/2021 12:53:10 devpinoyLogger Price :13000
+19/04/2021 12:53:10 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:10 devpinoyLogger -----------------
+19/04/2021 12:53:10 devpinoyLogger Car :Fiat 500C
+12.800 €
+19/04/2021 12:53:10 devpinoyLogger Price :12800
+19/04/2021 12:53:10 devpinoyLogger Year/Model :2020
+19/04/2021 12:53:11 devpinoyLogger -----------------
+19/04/2021 12:53:11 devpinoyLogger Car :Hyundai i10
+12.600 €
+19/04/2021 12:53:11 devpinoyLogger Price :12600
+19/04/2021 12:53:11 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:11 devpinoyLogger -----------------
+19/04/2021 12:53:11 devpinoyLogger Car :Fiat 500C
+12.600 €
+19/04/2021 12:53:11 devpinoyLogger Price :12600
+19/04/2021 12:53:11 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:11 devpinoyLogger -----------------
+19/04/2021 12:53:14 devpinoyLogger Car :Volkswagen up!
+10.800 €
+19/04/2021 12:53:14 devpinoyLogger Price :10800
+19/04/2021 12:53:14 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:14 devpinoyLogger -----------------
+19/04/2021 12:53:14 devpinoyLogger Car :Fiat Tipo
+10.600 €
+19/04/2021 12:53:14 devpinoyLogger Price :10600
+19/04/2021 12:53:14 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:14 devpinoyLogger -----------------
+19/04/2021 12:53:14 devpinoyLogger Car :Peugeot 208
+10.160 €
+19/04/2021 12:53:15 devpinoyLogger Price :10160
+19/04/2021 12:53:15 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:15 devpinoyLogger -----------------
+19/04/2021 12:53:15 devpinoyLogger Car :Fiat Panda
+9.800 €
+19/04/2021 12:53:15 devpinoyLogger Price :9800
+19/04/2021 12:53:15 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:15 devpinoyLogger -----------------
+19/04/2021 12:53:15 devpinoyLogger Car :Dacia Sandero II
+9.700 €
+19/04/2021 12:53:15 devpinoyLogger Price :9700
+19/04/2021 12:53:15 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:15 devpinoyLogger -----------------
+19/04/2021 12:53:16 devpinoyLogger Car :Dacia Sandero II
+9.200 €
+19/04/2021 12:53:16 devpinoyLogger Price :9200
+19/04/2021 12:53:16 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:16 devpinoyLogger -----------------
+19/04/2021 12:53:16 devpinoyLogger Car :Renault Twingo
+9.100 €
+19/04/2021 12:53:16 devpinoyLogger Price :9100
+19/04/2021 12:53:16 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:16 devpinoyLogger -----------------
+19/04/2021 12:53:16 devpinoyLogger Car :Hyundai i10
+9.100 €
+19/04/2021 12:53:16 devpinoyLogger Price :9100
+19/04/2021 12:53:16 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:17 devpinoyLogger -----------------
+19/04/2021 12:53:17 devpinoyLogger Car :Nissan Micra
+8.950 €
+19/04/2021 12:53:17 devpinoyLogger Price :8950
+19/04/2021 12:53:17 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:17 devpinoyLogger -----------------
+19/04/2021 12:53:17 devpinoyLogger Car :Hyundai i10
+8.700 €
+19/04/2021 12:53:17 devpinoyLogger Price :8700
+19/04/2021 12:53:17 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:17 devpinoyLogger -----------------
+19/04/2021 12:53:17 devpinoyLogger Car :Citroen C1
+8.000 €
+19/04/2021 12:53:18 devpinoyLogger Price :8000
+19/04/2021 12:53:18 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:18 devpinoyLogger -----------------
+19/04/2021 12:53:18 devpinoyLogger Car :Dacia Sandero II
+8.000 €
+19/04/2021 12:53:18 devpinoyLogger Price :8000
+19/04/2021 12:53:18 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:18 devpinoyLogger -----------------
+19/04/2021 12:53:20 devpinoyLogger Car :Volkswagen up!
+10.800 €
+19/04/2021 12:53:20 devpinoyLogger Price :10800
+19/04/2021 12:53:20 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:20 devpinoyLogger -----------------
+19/04/2021 12:53:20 devpinoyLogger Car :Fiat Tipo
+10.600 €
+19/04/2021 12:53:21 devpinoyLogger Price :10600
+19/04/2021 12:53:21 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:21 devpinoyLogger -----------------
+19/04/2021 12:53:21 devpinoyLogger Car :Peugeot 208
+10.160 €
+19/04/2021 12:53:21 devpinoyLogger Price :10160
+19/04/2021 12:53:21 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:21 devpinoyLogger -----------------
+19/04/2021 12:53:21 devpinoyLogger Car :Fiat Panda
+9.800 €
+19/04/2021 12:53:21 devpinoyLogger Price :9800
+19/04/2021 12:53:21 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:21 devpinoyLogger -----------------
+19/04/2021 12:53:22 devpinoyLogger Car :Dacia Sandero II
+9.700 €
+19/04/2021 12:53:22 devpinoyLogger Price :9700
+19/04/2021 12:53:22 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:22 devpinoyLogger -----------------
+19/04/2021 12:53:22 devpinoyLogger Car :Dacia Sandero II
+9.200 €
+19/04/2021 12:53:22 devpinoyLogger Price :9200
+19/04/2021 12:53:22 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:22 devpinoyLogger -----------------
+19/04/2021 12:53:22 devpinoyLogger Car :Renault Twingo
+9.100 €
+19/04/2021 12:53:22 devpinoyLogger Price :9100
+19/04/2021 12:53:22 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:22 devpinoyLogger -----------------
+19/04/2021 12:53:23 devpinoyLogger Car :Hyundai i10
+9.100 €
+19/04/2021 12:53:23 devpinoyLogger Price :9100
+19/04/2021 12:53:23 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:23 devpinoyLogger -----------------
+19/04/2021 12:53:23 devpinoyLogger Car :Nissan Micra
+8.950 €
+19/04/2021 12:53:23 devpinoyLogger Price :8950
+19/04/2021 12:53:23 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:23 devpinoyLogger -----------------
+19/04/2021 12:53:23 devpinoyLogger Car :Hyundai i10
+8.700 €
+19/04/2021 12:53:23 devpinoyLogger Price :8700
+19/04/2021 12:53:23 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:23 devpinoyLogger -----------------
+19/04/2021 12:53:24 devpinoyLogger Car :Citroen C1
+8.000 €
+19/04/2021 12:53:24 devpinoyLogger Price :8000
+19/04/2021 12:53:24 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:24 devpinoyLogger -----------------
+19/04/2021 12:53:24 devpinoyLogger Car :Dacia Sandero II
+8.000 €
+19/04/2021 12:53:24 devpinoyLogger Price :8000
+19/04/2021 12:53:24 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:24 devpinoyLogger -----------------
+19/04/2021 12:53:26 devpinoyLogger Car :Volkswagen up!
+10.800 €
+19/04/2021 12:53:26 devpinoyLogger Price :10800
+19/04/2021 12:53:26 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:26 devpinoyLogger -----------------
+19/04/2021 12:53:27 devpinoyLogger Car :Fiat Tipo
+10.600 €
+19/04/2021 12:53:27 devpinoyLogger Price :10600
+19/04/2021 12:53:27 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:27 devpinoyLogger -----------------
+19/04/2021 12:53:27 devpinoyLogger Car :Peugeot 208
+10.160 €
+19/04/2021 12:53:27 devpinoyLogger Price :10160
+19/04/2021 12:53:27 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:27 devpinoyLogger -----------------
+19/04/2021 12:53:27 devpinoyLogger Car :Fiat Panda
+9.800 €
+19/04/2021 12:53:27 devpinoyLogger Price :9800
+19/04/2021 12:53:27 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:27 devpinoyLogger -----------------
+19/04/2021 12:53:27 devpinoyLogger Car :Dacia Sandero II
+9.700 €
+19/04/2021 12:53:28 devpinoyLogger Price :9700
+19/04/2021 12:53:28 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:28 devpinoyLogger -----------------
+19/04/2021 12:53:28 devpinoyLogger Car :Dacia Sandero II
+9.200 €
+19/04/2021 12:53:28 devpinoyLogger Price :9200
+19/04/2021 12:53:28 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:28 devpinoyLogger -----------------
+19/04/2021 12:53:28 devpinoyLogger Car :Renault Twingo
+9.100 €
+19/04/2021 12:53:28 devpinoyLogger Price :9100
+19/04/2021 12:53:28 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:28 devpinoyLogger -----------------
+19/04/2021 12:53:28 devpinoyLogger Car :Hyundai i10
+9.100 €
+19/04/2021 12:53:29 devpinoyLogger Price :9100
+19/04/2021 12:53:29 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:29 devpinoyLogger -----------------
+19/04/2021 12:53:29 devpinoyLogger Car :Nissan Micra
+8.950 €
+19/04/2021 12:53:29 devpinoyLogger Price :8950
+19/04/2021 12:53:29 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:29 devpinoyLogger -----------------
+19/04/2021 12:53:29 devpinoyLogger Car :Hyundai i10
+8.700 €
+19/04/2021 12:53:29 devpinoyLogger Price :8700
+19/04/2021 12:53:29 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:29 devpinoyLogger -----------------
+19/04/2021 12:53:29 devpinoyLogger Car :Citroen C1
+8.000 €
+19/04/2021 12:53:29 devpinoyLogger Price :8000
+19/04/2021 12:53:30 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:30 devpinoyLogger -----------------
+19/04/2021 12:53:30 devpinoyLogger Car :Dacia Sandero II
+8.000 €
+19/04/2021 12:53:30 devpinoyLogger Price :8000
+19/04/2021 12:53:30 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:30 devpinoyLogger -----------------
+19/04/2021 12:53:32 devpinoyLogger Car :Volkswagen up!
+10.800 €
+19/04/2021 12:53:32 devpinoyLogger Price :10800
+19/04/2021 12:53:32 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:32 devpinoyLogger -----------------
+19/04/2021 12:53:32 devpinoyLogger Car :Fiat Tipo
+10.600 €
+19/04/2021 12:53:32 devpinoyLogger Price :10600
+19/04/2021 12:53:33 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:33 devpinoyLogger -----------------
+19/04/2021 12:53:33 devpinoyLogger Car :Peugeot 208
+10.160 €
+19/04/2021 12:53:33 devpinoyLogger Price :10160
+19/04/2021 12:53:33 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:33 devpinoyLogger -----------------
+19/04/2021 12:53:33 devpinoyLogger Car :Hyundai i10
+9.100 €
+19/04/2021 12:53:33 devpinoyLogger Price :9100
+19/04/2021 12:53:33 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:34 devpinoyLogger -----------------
+19/04/2021 12:53:34 devpinoyLogger Car :Nissan Micra
+8.950 €
+19/04/2021 12:53:34 devpinoyLogger Price :8950
+19/04/2021 12:53:34 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:34 devpinoyLogger -----------------
+19/04/2021 12:53:34 devpinoyLogger Car :Hyundai i10
+8.700 €
+19/04/2021 12:53:34 devpinoyLogger Price :8700
+19/04/2021 12:53:34 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:34 devpinoyLogger -----------------
+19/04/2021 12:53:34 devpinoyLogger Car :Citroen C1
+8.000 €
+19/04/2021 12:53:34 devpinoyLogger Price :8000
+19/04/2021 12:53:34 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:34 devpinoyLogger -----------------
+19/04/2021 12:53:35 devpinoyLogger Car :Dacia Sandero II
+8.000 €
+19/04/2021 12:53:35 devpinoyLogger Price :8000
+19/04/2021 12:53:35 devpinoyLogger Year/Model :2019
+19/04/2021 12:53:35 devpinoyLogger -----------------
+19/04/2021 12:53:35 devpinoyLogger Totaol number of cars : 76
+19/04/2021 12:53:39 devpinoyLogger XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+19/04/2021 12:53:39 devpinoyLogger X
+19/04/2021 12:53:39 devpinoyLogger X
+19/04/2021 12:53:39 devpinoyLogger X
+19/04/2021 12:53:39 devpinoyLogger X
